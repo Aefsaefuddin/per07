@@ -31,7 +31,7 @@ if N>0:
 
 Output yang Saya Dapatkan adalah
 
-![img](screenshot/ss5.png)
+![img](screenshot/ss5.PNG)
 
 ## **Lab 2 Latihan 2**
 
@@ -52,7 +52,7 @@ print('data setelah diurutkan: ',data)
 ```
 Output yang Saya Dapatkan adalah
 
-![img](screenshot/ss6.png)
+![img](screenshot/ss6.PNG)
 
 ## **Lab 3 Latihan 1**
 
@@ -75,7 +75,7 @@ for bar in range(baris):
 
 Output yang Saya Dapatkan adalah
 
-![img](screenshot/ss7.png)
+![img](screenshot/ss7.PNG)
 
 ## **Lab 3 Latihan 2**
 
@@ -99,5 +99,5 @@ for i in range(jum):
 ```
 Output yang Saya Dapatkan adalah
 
-![img](screenshot/ss8.png)
+![img](screenshot/ss8.PNG)
 
